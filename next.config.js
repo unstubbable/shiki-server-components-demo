@@ -2,6 +2,7 @@
 const nextConfig = {
   experimental: {
     serverActions: true,
+    urlImports: ["https://cdn.jsdelivr.net/npm/"],
   },
   typescript: {
     ignoreBuildErrors: true,

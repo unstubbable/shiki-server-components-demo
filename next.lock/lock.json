@@ -1,0 +1,6 @@
+{
+  "https://cdn.jsdelivr.net/npm/shiki@0.14.1/themes/github-dark.json": { "integrity": "sha512-VDJDPYboHljg2JFkQN7HwzVbmoSdMeI1hRPsQ5SDakOjN0BY+aPMkbZ3RKjOTcSUu1F5z60r+TrqvnROx2h14A==", "contentType": "application/json; charset=utf-8" },
+  "https://cdn.jsdelivr.net/npm/shiki@0.14.1/themes/github-light.json": { "integrity": "sha512-7TwRIGkZJ0CWa4YsB9qWSWFL9teqKtoLHgeebXqWNete8MCBD5fH3k3FKEmpButh6XYWq0Quh/rhRGKydp0/YA==", "contentType": "application/json; charset=utf-8" },
+  "https://cdn.jsdelivr.net/npm/shiki@0.14.1/themes/nord.json": { "integrity": "sha512-F5bAl2sh94k+N4d9atUMi9VnESOLVL3xUotohqnmnV/fGTEd0RtkdU2QRcj6aacVK2qb9IGxS86LgxBbUZ43kQ==", "contentType": "application/json; charset=utf-8" },
+  "version": 1
+}

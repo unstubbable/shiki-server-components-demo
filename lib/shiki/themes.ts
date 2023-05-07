@@ -1,6 +1,6 @@
-import nord from "shiki/themes/nord.json";
-import githubDark from "shiki/themes/github-dark.json";
-import githubLight from "shiki/themes/github-light.json";
+import nord from "https://cdn.jsdelivr.net/npm/shiki@0.14.1/themes/nord.json";
+import githubDark from "https://cdn.jsdelivr.net/npm/shiki@0.14.1/themes/github-dark.json";
+import githubLight from "https://cdn.jsdelivr.net/npm/shiki@0.14.1/themes/github-light.json";
 import { IShikiTheme } from "shiki";
 
 export const NEXT_BUNDLED_THEMES = [
